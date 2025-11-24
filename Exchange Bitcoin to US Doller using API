@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "bcf51736",
+   "id": "a9029fce",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-24T13:45:32.448456Z",
-     "iopub.status.busy": "2025-11-24T13:45:32.447768Z",
-     "iopub.status.idle": "2025-11-24T13:45:32.517773Z",
-     "shell.execute_reply": "2025-11-24T13:45:32.516863Z"
+     "iopub.execute_input": "2025-11-24T20:32:39.670616Z",
+     "iopub.status.busy": "2025-11-24T20:32:39.669830Z",
+     "iopub.status.idle": "2025-11-24T20:32:39.740503Z",
+     "shell.execute_reply": "2025-11-24T20:32:39.739570Z"
     },
     "papermill": {
-     "duration": 0.07506,
-     "end_time": "2025-11-24T13:45:32.519560",
+     "duration": 0.075397,
+     "end_time": "2025-11-24T20:32:39.742059",
      "exception": false,
-     "start_time": "2025-11-24T13:45:32.444500",
+     "start_time": "2025-11-24T20:32:39.666662",
      "status": "completed"
     },
     "tags": []
@@ -28,19 +28,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "dfe94b4e",
+   "id": "acd3de3f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-24T13:45:32.524529Z",
-     "iopub.status.busy": "2025-11-24T13:45:32.523662Z",
-     "iopub.status.idle": "2025-11-24T13:45:32.710443Z",
-     "shell.execute_reply": "2025-11-24T13:45:32.709529Z"
+     "iopub.execute_input": "2025-11-24T20:32:39.746223Z",
+     "iopub.status.busy": "2025-11-24T20:32:39.745977Z",
+     "iopub.status.idle": "2025-11-24T20:32:39.978454Z",
+     "shell.execute_reply": "2025-11-24T20:32:39.977204Z"
     },
     "papermill": {
-     "duration": 0.190508,
-     "end_time": "2025-11-24T13:45:32.711862",
+     "duration": 0.236234,
+     "end_time": "2025-11-24T20:32:39.980067",
      "exception": false,
-     "start_time": "2025-11-24T13:45:32.521354",
+     "start_time": "2025-11-24T20:32:39.743833",
      "status": "completed"
     },
     "tags": []
@@ -63,19 +63,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1203f50f",
+   "id": "5ec4dcb8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-11-24T13:45:32.716065Z",
-     "iopub.status.busy": "2025-11-24T13:45:32.715727Z",
-     "iopub.status.idle": "2025-11-24T13:45:32.722294Z",
-     "shell.execute_reply": "2025-11-24T13:45:32.721483Z"
+     "iopub.execute_input": "2025-11-24T20:32:39.984223Z",
+     "iopub.status.busy": "2025-11-24T20:32:39.983967Z",
+     "iopub.status.idle": "2025-11-24T20:32:39.989986Z",
+     "shell.execute_reply": "2025-11-24T20:32:39.988943Z"
     },
     "papermill": {
-     "duration": 0.01028,
-     "end_time": "2025-11-24T13:45:32.723680",
+     "duration": 0.009898,
+     "end_time": "2025-11-24T20:32:39.991469",
      "exception": false,
-     "start_time": "2025-11-24T13:45:32.713400",
+     "start_time": "2025-11-24T20:32:39.981571",
      "status": "completed"
     },
     "tags": []
@@ -85,12 +85,12 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "The price of bitcoin in USD is 86454\n",
-      "The price of bitcoin in EUR is 74914\n",
+      "The price of bitcoin in USD is 88809\n",
+      "The price of bitcoin in EUR is 77063\n",
       "Bitcoin price in toman:\n",
-      "USD:86,454 $\n",
-      "EUR:74,914 €\n",
-      "IRR:9,769,302,000 IRR Tomans\n"
+      "USD:88,809 $\n",
+      "EUR:77,063 €\n",
+      "IRR:10,035,417,000 IRR Tomans\n"
      ]
     }
    ],
@@ -116,13 +116,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "adf5804a",
+   "id": "8360d148",
    "metadata": {
     "papermill": {
-     "duration": 0.001444,
-     "end_time": "2025-11-24T13:45:32.726841",
+     "duration": 0.001401,
+     "end_time": "2025-11-24T20:32:39.994456",
      "exception": false,
-     "start_time": "2025-11-24T13:45:32.725397",
+     "start_time": "2025-11-24T20:32:39.993055",
      "status": "completed"
     },
     "tags": []
@@ -135,6 +135,7 @@
   "kaggle": {
    "accelerator": "none",
    "dataSources": [],
+   "dockerImageVersionId": 31192,
    "isGpuEnabled": false,
    "isInternetEnabled": true,
    "language": "python",
@@ -159,14 +160,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.158255,
-   "end_time": "2025-11-24T13:45:33.046253",
+   "duration": 5.559256,
+   "end_time": "2025-11-24T20:32:40.415295",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-11-24T13:45:27.887998",
+   "start_time": "2025-11-24T20:32:34.856039",
    "version": "2.6.0"
   }
  },
