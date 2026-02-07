@@ -3,19 +3,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "9a447e36",
+   "id": "f4795384",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-05T22:09:48.288566Z",
-     "iopub.status.busy": "2026-02-05T22:09:48.287496Z",
-     "iopub.status.idle": "2026-02-05T22:09:48.358335Z",
-     "shell.execute_reply": "2026-02-05T22:09:48.357687Z"
+     "iopub.execute_input": "2026-02-07T19:13:10.334313Z",
+     "iopub.status.busy": "2026-02-07T19:13:10.333881Z",
+     "iopub.status.idle": "2026-02-07T19:13:10.409647Z",
+     "shell.execute_reply": "2026-02-07T19:13:10.408745Z"
     },
     "papermill": {
-     "duration": 0.076009,
-     "end_time": "2026-02-05T22:09:48.360149",
+     "duration": 0.080824,
+     "end_time": "2026-02-07T19:13:10.411439",
      "exception": false,
-     "start_time": "2026-02-05T22:09:48.284140",
+     "start_time": "2026-02-07T19:13:10.330615",
      "status": "completed"
     },
     "tags": []
@@ -28,19 +28,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "ccb335ed",
+   "id": "e1fe5409",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-05T22:09:48.364634Z",
-     "iopub.status.busy": "2026-02-05T22:09:48.364372Z",
-     "iopub.status.idle": "2026-02-05T22:09:48.519813Z",
-     "shell.execute_reply": "2026-02-05T22:09:48.518815Z"
+     "iopub.execute_input": "2026-02-07T19:13:10.417221Z",
+     "iopub.status.busy": "2026-02-07T19:13:10.415995Z",
+     "iopub.status.idle": "2026-02-07T19:13:10.542598Z",
+     "shell.execute_reply": "2026-02-07T19:13:10.541575Z"
     },
     "papermill": {
-     "duration": 0.159423,
-     "end_time": "2026-02-05T22:09:48.521386",
+     "duration": 0.130771,
+     "end_time": "2026-02-07T19:13:10.544108",
      "exception": false,
-     "start_time": "2026-02-05T22:09:48.361963",
+     "start_time": "2026-02-07T19:13:10.413337",
      "status": "completed"
     },
     "tags": []
@@ -63,19 +63,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "271a7c70",
+   "id": "90983eb0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2026-02-05T22:09:48.525861Z",
-     "iopub.status.busy": "2026-02-05T22:09:48.525594Z",
-     "iopub.status.idle": "2026-02-05T22:09:48.532579Z",
-     "shell.execute_reply": "2026-02-05T22:09:48.531639Z"
+     "iopub.execute_input": "2026-02-07T19:13:10.548428Z",
+     "iopub.status.busy": "2026-02-07T19:13:10.548149Z",
+     "iopub.status.idle": "2026-02-07T19:13:10.554323Z",
+     "shell.execute_reply": "2026-02-07T19:13:10.553256Z"
     },
     "papermill": {
-     "duration": 0.01075,
-     "end_time": "2026-02-05T22:09:48.533864",
+     "duration": 0.010784,
+     "end_time": "2026-02-07T19:13:10.556399",
      "exception": false,
-     "start_time": "2026-02-05T22:09:48.523114",
+     "start_time": "2026-02-07T19:13:10.545615",
      "status": "completed"
     },
     "tags": []
@@ -85,12 +85,12 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "The price of bitcoin in USD is 62986\n",
-      "The price of bitcoin in EUR is 53475\n",
+      "The price of bitcoin in USD is 69331\n",
+      "The price of bitcoin in EUR is 58668\n",
       "Bitcoin price in toman:\n",
-      "USD:62,986 $\n",
-      "EUR:53,475 €\n",
-      "IRR:7,117,418,000 IRR Tomans\n"
+      "USD:69,331 $\n",
+      "EUR:58,668 €\n",
+      "IRR:7,834,403,000 IRR Tomans\n"
      ]
     }
    ],
@@ -116,13 +116,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "8565a4c9",
+   "id": "cb9e0749",
    "metadata": {
     "papermill": {
-     "duration": 0.001328,
-     "end_time": "2026-02-05T22:09:48.536824",
+     "duration": 0.001491,
+     "end_time": "2026-02-07T19:13:10.559585",
      "exception": false,
-     "start_time": "2026-02-05T22:09:48.535496",
+     "start_time": "2026-02-07T19:13:10.558094",
      "status": "completed"
     },
     "tags": []
@@ -160,14 +160,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 4.972011,
-   "end_time": "2026-02-05T22:09:48.957190",
+   "duration": 5.734735,
+   "end_time": "2026-02-07T19:13:10.981486",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2026-02-05T22:09:43.985179",
+   "start_time": "2026-02-07T19:13:05.246751",
    "version": "2.6.0"
   }
  },
